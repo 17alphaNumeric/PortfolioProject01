@@ -1,0 +1,4 @@
+
+variant,funded_users,total_users,conversion_rate
+control,1457,5031,0.2896044523951501
+treatment,1747,4969,0.3515797947273093
